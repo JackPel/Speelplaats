@@ -1,2 +1,2 @@
 # Speelplaats
-Repo voor allerhande educative oefeningen met betreking tot Git en Github
+Repo voor allerhande educative oefeningen met betrekking tot Git en Github
